@@ -1,5 +1,4 @@
 # Operating-Systems-Projects
-This repo contains my projects in operating system course. 
 
 ## Project 1 Challenge:
 The aim of the project is to create a windows service to collect data about my PC workload.
