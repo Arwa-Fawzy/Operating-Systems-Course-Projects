@@ -1,4 +1,4 @@
-# Operating-Systems-Course-Projects
+# Operating-Systems-Projects
 This repo contains my projects in operating system course. 
 
 ## Project 1 Challenge:
