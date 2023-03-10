@@ -22,7 +22,7 @@ The aim of the project is to create a windows service to collect data about my P
 
 
 ## Project 2 challenge:
-The aim of this project is to create c# windows project that implement multithreading concepts.
+The aim of this project is to create a python windows project that implement multithreading concepts.
 * The objective is to draw two simple shapes (circle and rectangle) each one in a separate thread
 * Reading the book C# how to program 6th edition chapter 23 Asynchronous Programming with async and await and applying its procedures 
 
