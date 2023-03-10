@@ -108,7 +108,7 @@ def main():
         email_list = ["arwa.harhash@ejust.edu.eg"]
 
         # Define the password reference external from the mail password for privacy 
-        pas = "chdcmrboejmrddkt" 
+        pas = "xxxxxxxxxxxxxxxx" 
 
         # the email subject
         subject = "Operating System Workload"
