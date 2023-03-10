@@ -1,0 +1,11 @@
+System CPU load is 10.2 %
+CPU frequency is 2601 MHz
+RAM usage is 7155 MB
+RAM total usage is 8065 MB
+Swap in memory usage is 5984 MB
+Swap in memory total is 7696 MB
+Swap in memory usage is 77.7 %
+The usage statistics of D:\CS\4th\os\projects\1 is:
+sdiskusage(total=837671710720, used=95635468288, free=742036242432, percent=11.4)
+System network calls are snetio(bytes_sent=154918939, bytes_recv=3077016535, packets_sent=1250183, packets_recv=2495784, errin=0, errout=0, dropin=0, dropout=0) 
+System network old and new calls are {'Ethernet': snetio(bytes_sent=0, bytes_recv=0, packets_sent=0, packets_recv=0, errin=0, errout=0, dropin=0, dropout=0), 'OpenVPN Wintun': snetio(bytes_sent=0, bytes_recv=0, packets_sent=0, packets_recv=0, errin=0, errout=0, dropin=0, dropout=0), 'VirtualBox Host-Only Network': snetio(bytes_sent=0, bytes_recv=0, packets_sent=0, packets_recv=0, errin=0, errout=0, dropin=0, dropout=0), 'OpenVPN TAP-Windows6': snetio(bytes_sent=0, bytes_recv=0, packets_sent=0, packets_recv=0, errin=0, errout=0, dropin=0, dropout=0), 'Local Area Connection* 1': snetio(bytes_sent=0, bytes_recv=0, packets_sent=0, packets_recv=0, errin=0, errout=0, dropin=0, dropout=0), 'Local Area Connection* 2': snetio(bytes_sent=0, bytes_recv=0, packets_sent=0, packets_recv=0, errin=0, errout=0, dropin=0, dropout=0), 'Wi-Fi': snetio(bytes_sent=154918939, bytes_recv=3077016535, packets_sent=1250183, packets_recv=2495784, errin=0, errout=0, dropin=0, dropout=0), 'Bluetooth Network Connection': snetio(bytes_sent=0, bytes_recv=0, packets_sent=0, packets_recv=0, errin=0, errout=0, dropin=0, dropout=0), 'Loopback Pseudo-Interface 1': snetio(bytes_sent=0, bytes_recv=0, packets_sent=0, packets_recv=0, errin=0, errout=0, dropin=0, dropout=0)} 
